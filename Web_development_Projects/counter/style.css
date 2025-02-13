@@ -1,0 +1,16 @@
+#scorelabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+.block{
+        text-align: center;
+        font-size: 50px;
+}
+
+.btn{
+    border: black, 20px;
+    border-radius: 8px;
+
+}
