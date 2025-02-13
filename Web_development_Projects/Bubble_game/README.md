@@ -15,9 +15,9 @@ A fun and interactive game where you pop bubbles to score points before time run
 ## 🚀 How to Run  
 1. Clone this repository:  
    ```sh
-   git clone https://github.com/shahzad-bangash/Web_development_Projects.git
-
-Open index.html in your browser.
+   git clone https://github.com/shahzad-bangash/personale_projects.git
+2. go to web_development_project/bubble_game folder
+3. Open index.html in your browser.
 
 ## 🖼️ Preview
 ![{D971EECD-003F-4F1E-A014-054025E07656}](https://github.com/user-attachments/assets/495e31c0-ada6-434b-b75d-2f4e70cf55b4)
