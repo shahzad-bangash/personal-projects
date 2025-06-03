@@ -46,7 +46,7 @@ Because of this, it never loses and always plays optimally.
 - The game has interesting sound effects.
 - Great for learning how games and decision-making work.
 
-![Game Over - AI Wins](screenshots/game_over.png.png)
+![Game Over - AI Wins](screenshots/game_over.png)
 
 ---
 
