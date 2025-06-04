@@ -25,8 +25,6 @@ Yes! This player uses a basic form of Artificial Intelligence (AI) called the **
 
 Because of this, it never loses and always plays optimally.
 
-![AI in Action](screenshots/computer_turn.png)
-
 ---
 
 ## How to Use
@@ -46,8 +44,15 @@ Because of this, it never loses and always plays optimally.
 - The game has interesting sound effects.
 - Great for learning how games and decision-making work.
 
-![Game Over - AI Wins](screenshots/game_over.png)
-
 ---
 
-Try it out and enjoy a game that challenges you every time!
+## Game-Pictures
+1. Start of Game
+<img src="screenshots/start_screen.png" alt="Face Start of Game" width="400"/>
+
+2. Computer Turn
+<img src="screenshots/computer_turn.png" alt="AI in Action" width="400"/>
+
+3. GameOver
+
+<img src="screenshots/game_over.png" alt="Game Over - AI Wins" width="400"/>
