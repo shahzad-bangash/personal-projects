@@ -11,7 +11,7 @@ This project is an AI-powered Tic Tac Toe game player built with Python.
 - AI looks at all possible moves and picks the smartest one.
 - Keeps playing until someone wins or the board is full.
 
-![Start of Game](screenshots/start_screen.png)
+<img src="screenshots/start_screen.png" alt="Face Start of Game" width="400"/>
 
 ---
 
